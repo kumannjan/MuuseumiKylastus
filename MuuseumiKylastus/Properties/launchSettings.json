@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MuuseumiKylastus": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\..\\Kylastusajad4.txt"
+    }
+  }
+}
